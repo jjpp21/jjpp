@@ -29,7 +29,7 @@ const binance = new Binance().options({
 binance.websockets.miniTicker(markets => {
 
 
-	var localDBAlarm = cjson.load('/home/criptool/public_html/criptools.com/s/node/BD_Alarm.json');
+	var localDBAlarm = cjson.load('https://criptools.com/s/node/BD_Alarm.json');
 
 
 	for (var i in markets){
