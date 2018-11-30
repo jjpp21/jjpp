@@ -2,7 +2,7 @@
   "name": "criptools_package",
   "version": "1.0.0",
   "description": "Prueba",
-  "main": "index.js",
+  "main": "alarmBot.js",
   "scripts": {
     "test": "npm test"
   },
