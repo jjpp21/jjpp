@@ -1,0 +1,29 @@
+{
+  "name": "criptools_package",
+  "version": "1.0.0",
+  "description": "Prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nada"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "Jhoel Petitt",
+  "license": "Unlicense",
+  "dependencies": {
+    "cjson": "^0.5.0",
+    "graceful-fs": "^4.1.14",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0",
+    "node-binance-api": "^0.8.5",
+    "node-telegram-bot-api": "^0.30.0",
+    "pm2": "^3.2.2",
+    "winston": "^3.1.0",
+    "ws": "^6.1.0"
+  }
+}
