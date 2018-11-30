@@ -4,11 +4,11 @@
   "description": "Prueba",
   "main": "alarmBot.js",
   "scripts": {
-    "test": "npm test"
+    "start": "node alarmBot.js"
   },
   "repository": {
     "type": "git",
-    "url": "nada"
+    "url": "https://github.com/jjpp21/jjpp.git"
   },
   "keywords": [
     "keywords"
